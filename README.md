@@ -7,7 +7,8 @@ El restaurante "Sabores del Mundo", es conocido por su auténtica cocina y su am
 ## Objetivo
 Identificar cuáles son los productos del menú que han tenido más éxito y cuales son los que menos han gustado a los clientes
 
-1.- Realizar consultas para contestar las siguientes preguntas: 
+**1.- Realizar consultas para contestar las siguientes preguntas:**
+
 ● Encontrar el número de artículos en el menú. 
 
 ![image](https://github.com/user-attachments/assets/eb5248e1-2a85-455b-ac86-5fcb75c1dccd)
