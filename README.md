@@ -23,4 +23,7 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 ![image](https://github.com/user-attachments/assets/042db87a-c1e1-4950-b075-610410fd10ed)
 
 
-● ¿Cuálesel precio promedio de los platos? 
+● ¿Cuál es el precio promedio de los platos? 
+
+![image](https://github.com/user-attachments/assets/11fd0723-3df3-4c99-9267-5fdccce617f8)
+
