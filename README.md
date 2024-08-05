@@ -21,10 +21,28 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 
 ● ¿Cuántos platos americanos hay en el menú? 
 
-![image](https://github.com/user-attachments/assets/042db87a-c1e1-4950-b075-610410fd10ed)
+![image](https://github.com/user-attachments/assets/c0248428-1e65-471b-80f8-c7b0aebcd119)
 
 
 ● ¿Cuál es el precio promedio de los platos? 
 
 ![image](https://github.com/user-attachments/assets/11fd0723-3df3-4c99-9267-5fdccce617f8)
 
+
+**1.- Realizar consultas para contestar las siguientes preguntas: 
+
+●¿Cuántos pedidos únicos se realizaron en total?
+
+![image](https://github.com/user-attachments/assets/00f544f0-44c6-46fe-93f1-70613fd060d2)
+
+
+
+● ¿Cuáles son los 5 pedidos que tuvieron el mayor número de artículos? 
+
+
+
+● ¿Cuándoserealizó el primer pedido y el último pedido? 
+
+
+
+● ¿Cuántos pedidos se hicieron entre el '2023-01-01' y el '2023-01-05'?
