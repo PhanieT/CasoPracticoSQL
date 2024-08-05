@@ -15,7 +15,11 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 
 ● ¿Cuál es el artículo menos caro y el más caro en el menú? 
 
+Artículo menos caro
+
 ![image](https://github.com/user-attachments/assets/2b398ae8-8397-4919-975a-7295cbfaf1c5)
+
+Artículo más caro
 
 ![image](https://github.com/user-attachments/assets/a3fd7aef-f709-463c-8e58-a51ca9d70c54)
 
@@ -43,8 +47,16 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 ![image](https://github.com/user-attachments/assets/877601d3-8bbd-4c9b-97fe-3107032e0d90)
 
 
-● ¿Cuándoserealizó el primer pedido y el último pedido? 
+● ¿Cuándo se realizó el primer pedido y el último pedido? 
 
+Primer pedido
+
+![image](https://github.com/user-attachments/assets/6e3d7e8b-6b47-4f71-b61b-761abf66895e)
+
+
+Último pedido
+
+![image](https://github.com/user-attachments/assets/24c48cf9-5106-4c87-92cd-f66225a55e82)
 
 
 ● ¿Cuántos pedidos se hicieron entre el '2023-01-01' y el '2023-01-05'?
