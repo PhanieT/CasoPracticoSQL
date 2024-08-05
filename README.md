@@ -29,7 +29,7 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 ![image](https://github.com/user-attachments/assets/11fd0723-3df3-4c99-9267-5fdccce617f8)
 
 
-**1.- Realizar consultas para contestar las siguientes preguntas: 
+**1.- Realizar consultas para contestar las siguientes preguntas:**
 
 ●¿Cuántos pedidos únicos se realizaron en total?
 
@@ -39,6 +39,8 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 
 ● ¿Cuáles son los 5 pedidos que tuvieron el mayor número de artículos? 
 
+
+![image](https://github.com/user-attachments/assets/877601d3-8bbd-4c9b-97fe-3107032e0d90)
 
 
 ● ¿Cuándoserealizó el primer pedido y el último pedido? 
