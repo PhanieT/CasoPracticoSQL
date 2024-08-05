@@ -9,14 +9,17 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 
 1.- Realizar consultas para contestar las siguientes preguntas: 
 ● Encontrar el número de artículos en el menú. 
+
 ![image](https://github.com/user-attachments/assets/eb5248e1-2a85-455b-ac86-5fcb75c1dccd)
 
 ● ¿Cuál es el artículo menos caro y el más caro en el menú? 
+
 ![image](https://github.com/user-attachments/assets/2b398ae8-8397-4919-975a-7295cbfaf1c5)
 
 ![image](https://github.com/user-attachments/assets/a3fd7aef-f709-463c-8e58-a51ca9d70c54)
 
 ● ¿Cuántos platos americanos hay en el menú? 
+
 ![image](https://github.com/user-attachments/assets/042db87a-c1e1-4950-b075-610410fd10ed)
 
 
