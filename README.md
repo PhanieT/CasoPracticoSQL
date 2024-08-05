@@ -60,3 +60,5 @@ Primer pedido
 
 
 ● ¿Cuántos pedidos se hicieron entre el '2023-01-01' y el '2023-01-05'?
+
+![image](https://github.com/user-attachments/assets/8cd6109c-b131-48a6-aa0e-1693569707cd)
