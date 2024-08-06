@@ -68,7 +68,7 @@ Primer pedido
 
 1.- Realizar un left join entre entre order_details y menu_items con el identificador item_id(tabla order_details) y menu_item_id(tabla menu_items).
 
-**__ Análisis extra**__
+__**Análisis extra**__
 
 1. Top 5 platillos más vendidos
 
