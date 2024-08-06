@@ -62,3 +62,19 @@ Primer pedido
 ● ¿Cuántos pedidos se hicieron entre el '2023-01-01' y el '2023-01-05'?
 
 ![image](https://github.com/user-attachments/assets/8cd6109c-b131-48a6-aa0e-1693569707cd)
+
+
+**Usar ambas tablas para conocer la reacción de los clientes respecto al menú.**
+
+1.- Realizar un left join entre entre order_details y menu_items con el identificador item_id(tabla order_details) y menu_item_id(tabla menu_items).
+
+**__ Análisis extra**__
+
+1. Top 5 platillos más vendidos
+
+   ![image](https://github.com/user-attachments/assets/5c261dbb-6c16-4875-85ff-66487bc247d5)
+
+
+2. Los 5 platillos menos vendidos
+
+![image](https://github.com/user-attachments/assets/167788c5-9d0f-4d00-96a2-87f403fed1be)
