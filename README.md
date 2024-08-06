@@ -72,9 +72,21 @@ __**Análisis extra**__
 
 1. Top 5 platillos más vendidos
 
-   ![image](https://github.com/user-attachments/assets/5c261dbb-6c16-4875-85ff-66487bc247d5)
+ ![image](https://github.com/user-attachments/assets/5c261dbb-6c16-4875-85ff-66487bc247d5)
 
 
 2. Los 5 platillos menos vendidos
 
 ![image](https://github.com/user-attachments/assets/167788c5-9d0f-4d00-96a2-87f403fed1be)
+
+
+3. Los lunes es el día en que más ventas hay
+4. Los miercóles es el día con menores ventas
+
+![image](https://github.com/user-attachments/assets/7105747c-0878-4a09-879e-501fa15770bd)
+
+
+5. Marzo fue el mes con mayores ventas
+
+![image](https://github.com/user-attachments/assets/a2f063a9-1a1a-4418-a44f-86dfa37392bb)
+
